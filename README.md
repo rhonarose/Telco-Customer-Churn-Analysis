@@ -43,5 +43,7 @@ The analysis includes various SQL queries to explore the dataset and derive insi
 4. Examining churn rates based on service usage, contract types, and payment methods.
 5. Assessing the impact of customer satisfaction and revenue on churn rates.
 
+## Acknowledgments
+- **IBM**: The Telco Customer Churn dataset is sourced from IBM.
 
 
